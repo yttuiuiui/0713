@@ -4,6 +4,7 @@ public class Ta {
 	int x=0;
 	int y=2;
 	int z=3;
+	int p=9;
 	public int sum(int x,int y,int z){
 		return x+y+z;
 	}
